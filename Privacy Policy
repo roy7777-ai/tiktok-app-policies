@@ -1,0 +1,26 @@
+Privacy Policy
+Last updated: January 8, 2026
+
+Introduction
+n8n Video Auto Poster helps you automatically post videos to TikTok from Google Sheets.
+
+Information We Collect
+- TikTok user ID and profile information
+- Access tokens to post videos on your behalf
+
+How We Use Your Information
+We only use your information to post videos to your TikTok account as you instruct through your workflow.
+
+Data Security
+Access tokens are stored in your private Google Sheets. We don't store or access your video content.
+
+Third-Party Services
+- TikTok API
+- Google Drive
+- n8n automation platform
+
+Your Rights
+You can revoke access anytime in TikTok app settings.
+
+Contact
+For questions, please contact: tienyolo.money@gmail.com
